@@ -1,0 +1,14 @@
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\bin\Debug\Сервисный центр.exe.config
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\bin\Debug\Сервисный центр.exe
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\bin\Debug\Сервисный центр.pdb
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный центр.csproj.AssemblyReference.cache
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный_центр.Form1.resources
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный_центр.Form2.resources
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный_центр.Properties.Resources.resources
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный центр.csproj.GenerateResource.cache
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный центр.csproj.CoreCompileInputs.cache
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный центр.exe
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный центр.pdb
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный_центр.Form3.resources
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный_центр.Form4.resources
+C:\Users\schte\source\repos\Сервисный центр\Сервисный центр\obj\Debug\Сервисный_центр.Form5.resources
